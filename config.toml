@@ -1,6 +1,8 @@
 ################################# Default configuration ###################
 # provide your domain here
 baseURL = "https://hallobitcoin.github.io/"
+# The directory to where Hugo will write the final static site.
+publishDir = "docs"
 # theme
 theme = "dot"
 # site title
