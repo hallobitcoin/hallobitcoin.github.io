@@ -15,36 +15,39 @@ keywords: [""]
 - bitcoin.org: https://bitcoin.org/de/erste-schritte
   - FAQ: https://bitcoin.org/de/faq
 
+- [bitcoinready.de](https://www.bitcoinready.de/bitcoin-starter-guide-fuer-einsteiger) - Der Bitcoin Starter Guide für Einsteiger
+
+- [Aprycot Mediathek](https://aprycot.media/thek/) - Allgemeine Informationen zu Bitcoin und der österreichischen Schule der Ökonomie, sowie Links für Einsteiger.
+
 #### Englisch
 - Bitcoin Wiki: https://en.bitcoin.it/wiki/Main_Page
   - FAQ: https://en.bitcoin.it/wiki/Help:FAQ
 
-- lopp.net: https://www.lopp.net/bitcoin-information.html
-  - GitHub: https://github.com/jlopp/lopp.net
+- [lopp.net  Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) by Jameson Lopp
 
-- Collection von dergigi: https://bitcoin-resources.com
+- [Bitcoin Resources Collection](https://bitcoin-resources.com) by dergigi - A large repository of all things touching Bitcoin 
 
-- The fastest path to understanding Bitcoin: https://10hoursofbitcoin.com/
+- [10 hours of Bitcoin](https://10hoursofbitcoin.com/) - The fastest path to understanding Bitcoin: 
 
 - Hello Bitcoin: https://www.hellobitco.in/
 
-- river.com: https://river.com/learn/
-  - Basics: https://river.com/learn/basics/
-  - Glossar: https://river.com/learn/terms/
+- [river.com Bitcoin Learning Center](https://river.com/learn/)
+  - [Bitcoin Basics](https://river.com/learn/basics/)
+  - [Bitcoin Glossary](https://river.com/learn/terms/)
   
-- A Collection of Bitcoin Resources by BitcoiQ+A: https://bitcoiner.guide/
-  - GitHub: https://github.com/BitcoinQnA/bitcoiner.guide
-  - Bitcoin Wallet Guide: https://bitcoiner.guide/
-  - Bitcoin Full Node Guide: https://node.guide/
-  - Bitcoin Privacy Guide: https://bitcoinprivacy.guide/
-  - Bitcoin Lightning Network Guide: https://ln.guide/
+- [swanbitcoin Articles](https://www.swanbitcoin.com/signal/) - Thoughts and opinions on Bitcoin
   
-- Notizen von Philip Glazman (River Financial): https://bitcoin.philipglazman.com/
+- [bitcoiner.guide](https://bitcoiner.guide/) - A Collection of Bitcoin Resources by BitcoiQ+A: 
+  - [Bitcoin Wallet Guide](https://bitcoiner.guide/wallet/)
+  - [Bitcoin Full Node Guide](https://node.guide/)
+  - [Bitcoin Privacy Guide](https://bitcoinprivacy.guide/)
+  - [Bitcoin Lightning Network Guide](https://ln.guide/)
+  
+- [Notizen](https://bitcoin.philipglazman.com/) by Philip Glazman (River Financial)
 
-- Notizen und Links von Vincent Daranyi: https://vincentdaranyi.com/bitcoin
+- [Notizen und Links](https://vincentdaranyi.com/bitcoin) by Vincent Daranyi
   
-- https://learnmeabitcoin.com/
-  - Beginner: https://learnmeabitcoin.com/beginners/
+- [learn me a bitcoin](https://learnmeabitcoin.com/beginners/) - New to bitcoin and want to get started quickly? This should do the trick. 
 
 - Info Poster: https://www.bitcoindesigned.com/
 

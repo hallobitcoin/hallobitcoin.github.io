@@ -12,7 +12,9 @@ keywords: [""]
 
 #### Deutsch
 
-- [einundzwanzig Podcast](https://einundzwanzig.space/podcast/)
+- [einundzwanzig Podcast](https://einundzwanzig.space/podcast/) - Wir bringen dir die Bitcoin-News der Woche, sowie zusätzlich Interviews und die besten Artikel als Lesestunde
+- [Honigdachs Podcast](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/) - Aktuelles, Kritisches und Hintergründiges zu Bitcoin
+- [Bitcoin verstehen Podcast](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/) - Der Podcast für Einsteiger und Fortgeschrittene
 
 #### Englisch
 
