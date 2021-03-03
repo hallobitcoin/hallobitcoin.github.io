@@ -14,7 +14,7 @@
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
       <guid>https://hallobitcoin.github.io/resources/podcasts/</guid>
-      <description>Deutsch  einundzwanzig Podcast  Englisch  What Bitcoin Did mit Peter McCormack  Beginners Guide Collection   The Stephan Livera Podcast mit Stephan Livera Tales from the Crypt mit Matt Odell (für Fortgeschrittene)  </description>
+      <description>Deutsch  einundzwanzig Podcast - Wir bringen dir die Bitcoin-News der Woche, sowie zusätzlich Interviews und die besten Artikel als Lesestunde Honigdachs Podcast - Aktuelles, Kritisches und Hintergründiges zu Bitcoin Bitcoin verstehen Podcast - Der Podcast für Einsteiger und Fortgeschrittene  Englisch  What Bitcoin Did mit Peter McCormack  Beginners Guide Collection   The Stephan Livera Podcast mit Stephan Livera Tales from the Crypt mit Matt Odell (für Fortgeschrittene)  </description>
     </item>
     
     <item>
@@ -41,7 +41,9 @@
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
       <guid>https://hallobitcoin.github.io/resources/videos/</guid>
-      <description>Deutsch Englisch  Introduction to Bitcoin: What is Bitcoin and why does it matter? von Andreas M. Antonopoulos  </description>
+      <description>Deutsch Englisch   Introduction to Bitcoin: What is Bitcoin and why does it matter? von Andreas M. Antonopoulos
+  &amp;ldquo;What is Money?&amp;rdquo; Show - The Taylor Series mit Michael Saylor
+  </description>
     </item>
     
     <item>
@@ -50,14 +52,12 @@
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
       <guid>https://hallobitcoin.github.io/resources/similar-projects/</guid>
-      <description>Deutsch  bitcoin.org: https://bitcoin.org/de/erste-schritte  FAQ: https://bitcoin.org/de/faq    Englisch   Bitcoin Wiki: https://en.bitcoin.it/wiki/Main_Page
- FAQ: https://en.bitcoin.it/wiki/Help:FAQ    lopp.net: https://www.lopp.net/bitcoin-information.html
- GitHub: https://github.com/jlopp/lopp.net    Collection von dergigi: https://bitcoin-resources.com
-  The fastest path to understanding Bitcoin: https://10hoursofbitcoin.com/
-  Hello Bitcoin: https://www.hellobitco.in/
-  river.com: https://river.com/learn/
- Basics: https://river.com/learn/basics/ Glossar: https://river.com/learn/terms/    A Collection of Bitcoin Resources by BitcoiQ+A: https://bitcoiner.guide/
- GitHub: https://github.</description>
+      <description>Deutsch   bitcoin.org: https://bitcoin.org/de/erste-schritte
+ FAQ: https://bitcoin.org/de/faq    bitcoinready.de - Der Bitcoin Starter Guide für Einsteiger
+  Aprycot Mediathek - Allgemeine Informationen zu Bitcoin und der österreichischen Schule der Ökonomie, sowie Links für Einsteiger.
+  Englisch   Bitcoin Wiki: https://en.bitcoin.it/wiki/Main_Page
+ FAQ: https://en.bitcoin.it/wiki/Help:FAQ    lopp.net Bitcoin Information &amp;amp; Resources by Jameson Lopp
+  Bitcoin Resources Collection by dergigi - A large repository of all things touching Bitcoin</description>
     </item>
     
   </channel>
