@@ -1,0 +1,23 @@
+[class^="btc-icon-"],
+[class*=" btc-icon-"] {
+    height: 60px;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.btc-icon-emblem {
+    background-image: url('/images/icons/bitcoin-emblem.svg');
+}
+.btc-icon-safe-pig {
+    background-image: url('/images/icons/bitcoin-safe-pig.svg');
+}
+.btc-icon-exchange-fiat {
+    background-image: url('/images/icons/bitcoin-exchange-fiat.svg');
+}
+.btc-icon-credit-card {
+    background-image: url('/images/icons/bitcoin-credit-card.svg');
+}
+.btc-icon-send {
+    background-image: url('/images/icons/bitcoin-send.svg');
+}
