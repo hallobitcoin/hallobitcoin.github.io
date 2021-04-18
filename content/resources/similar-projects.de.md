@@ -19,6 +19,8 @@ keywords: [""]
 
 - [Aprycot Mediathek](https://aprycot.media/thek/) - Allgemeine Informationen zu Bitcoin und der österreichischen Schule der Ökonomie, sowie Links für Einsteiger.
 
+- [bitcoin-intro](https://bitcoin-intro.com/de/) - 12 erste Schritte mit Bitcoin
+
 #### Englisch
 - Bitcoin Wiki: https://en.bitcoin.it/wiki/Main_Page
   - FAQ: https://en.bitcoin.it/wiki/Help:FAQ

@@ -18,3 +18,5 @@ keywords: [""]
 - [Introduction to Bitcoin: What is Bitcoin and why does it matter?](https://www.youtube.com/watch?v=l1si5ZWLgy0) von Andreas M. Antonopoulos
 
 - ["What is Money?" Show - The Taylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0) mit Michael Saylor
+
+- [Bitcoin TV. 24/7 All Bitcoin. All The Time.](https://www.youtube.com/watch?v=5E9re9kJKHQ) von Swan Signal
